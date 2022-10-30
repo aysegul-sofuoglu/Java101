@@ -9,14 +9,14 @@ public class VucutKitleIndeksiHesaplama {
 		Scanner input = new Scanner(System.in);
 		
 		System.out.println("Lütfen boyunuzu (metre cinsinde) giriniz: ");
-		double boy = input.nextDouble();
+		double height  = input.nextDouble();
 		
 		System.out.println("Lütfen kilonuzu giriniz: ");
-		double kilo = input.nextDouble();
+		double weight = input.nextDouble();
 		
-		double indeks = kilo / (boy * boy);
+		double index = weight / (height  * height );
 		
-		System.out.println("Vücut kitle indeksiniz: " + indeks);
+		System.out.println("Vücut kitle indeksiniz: " + index);
 		
 	}
 
