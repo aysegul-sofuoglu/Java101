@@ -2,7 +2,7 @@ package java101;
 import java.util.Scanner;
 
 
-public class GreengrocerCashpointProgram {
+public class ManavKasaProgrami {
 
 	public static void main(String[] args) {
 	
