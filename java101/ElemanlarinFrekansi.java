@@ -1,5 +1,4 @@
 package java101;
-import java.util.Scanner;
 import java.util.Arrays;
 
 public class ElemanlarinFrekansi {
